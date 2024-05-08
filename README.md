@@ -29,6 +29,10 @@ The analysis covers the following aspects of the e-commerce business:
 2. **Customer Segmentation**: Understanding customer behavior and segmenting them.
 3. **Product Analysis**: Evaluating product performance, popular items, most sold categories.
 
+## Dashboard
+
+![image](https://github.com/KhaledMoheyD/E-commerce-Sales-Dashboard-/assets/38184987/d2e10bce-2163-4819-a935-3deec8c9bc1f)
+
 
 ## Insights and Visualizations
 
